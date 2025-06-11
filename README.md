@@ -29,4 +29,4 @@ Customize content, images, or sections as per your event brand
 Add JavaScript for interactivity (e.g., contact form, smooth scrolling)
 Connect to a backend for client inquiries and RSVP management
 
-Add animations for enhanced user experien
+Add animations for enhanced user experience
