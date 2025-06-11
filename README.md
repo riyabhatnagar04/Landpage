@@ -28,5 +28,7 @@ Customize content, images, or sections as per your event brand
  Future Enhancements
 Add JavaScript for interactivity (e.g., contact form, smooth scrolling)
 Connect to a backend for client inquiries and RSVP management
-
 Add animations for enhanced user experience
+
+You can have a quick look here:
+https://everkind-events.netlify.app/
