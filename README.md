@@ -1,4 +1,4 @@
-# Landpage
+# Landing page
 Everkind Events is a beautifully crafted, responsive landing page designed for an event management company that specializes in curating unforgettable experiences. This project is built using HTML and CSS, inspired by a modern, minimal aesthetic from a Figma design prototype.
 
  Key Features
